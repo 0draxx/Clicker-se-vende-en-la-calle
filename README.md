@@ -1,4 +1,4 @@
-<a href="https://cl1cker.xyz/" target="_blank"> </a>
+<a href="https://0draxx.github.io/draxx/" target="_blank"> </a>
 ```js
 npm install a-life
 ```
