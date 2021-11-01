@@ -9,7 +9,9 @@ npm install a-life
 <a href="https://https://0draxx.github.io/draxx//" target="_blank"> <img src="https://discordapp.com/api/guilds/892191598056718416/widget.png?style=shield" alt="shield.png"></a>
 
 ✔️・**Latest open source project [draxx](https://github.com/0draxx/draxx) ;)**
+
 📩・**Want to reach? Add draxx#0924 on [discord](https://discord.gg/cf4F86f99K)**
+
 🌐・**Website: [https://0draxx.github.io/draxx/](https://0draxx.github.io/draxx/)**
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <a href="https://www.w3schools.com/html/" target="_blank"></a>
